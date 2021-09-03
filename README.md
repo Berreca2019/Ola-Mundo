@@ -1,4 +1,4 @@
 # Olá,Mundo!
  Meu primeiro repositório.
 
-Repositório criadodurante uma aula ao vivo.
+Repositório criado durante uma aula ao vivo.
